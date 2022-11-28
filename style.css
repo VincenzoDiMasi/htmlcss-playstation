@@ -1,5 +1,14 @@
+/* GENERICS */
 body {
     background-color: bisque;
+}
+
+main {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: 7rem;
+    
 }
 
 /* UTILS */
@@ -15,6 +24,7 @@ header {
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 1;
     
 }
 
@@ -26,5 +36,15 @@ header {
 
 .arrow-navbar {
     height: 10px;
+}
+
+/* JUMBOTRON */
+.jumbo-bg {
+    min-height: 35rem;
+    background-image: url("img/jumbo-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    
 }
 
