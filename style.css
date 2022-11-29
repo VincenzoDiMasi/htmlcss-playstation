@@ -12,7 +12,7 @@ main {
 }
 
 section {
-    min-height: 20rem;
+   padding-bottom: 30px;
 }
 
 /* UTILS */
@@ -63,8 +63,8 @@ header {
 }
 
 /* JUMBO GAMES */
-#jumbo-games img {
+/* #jumbo-games img {
     height:  calc(6.5rem + 1.5vw);
     border-right: 1px solid white;
     border-bottom: 5px solid white;
-}
+} */
