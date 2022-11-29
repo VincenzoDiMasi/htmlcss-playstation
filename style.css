@@ -13,6 +13,7 @@ main {
 
 section {
    padding-bottom: 30px;
+   padding-top: 30px;
 }
 
 /* UTILS */
@@ -20,6 +21,10 @@ section {
     border-radius: 20px;
     padding: 8px 14px;
     width: fit-content;
+}
+
+.cs-radius {
+    border-radius: 20px;
 }
 
 .debug {
@@ -83,4 +88,9 @@ header {
 
 .banner-jumbo-2 {
     height: calc(12.5rem + 1.5vw);
+}
+
+/* NEW ENTRY */
+#new-entry {
+    background-color: rgb(31, 31, 31);
 }
