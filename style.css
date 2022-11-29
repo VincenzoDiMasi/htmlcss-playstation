@@ -94,3 +94,18 @@ header {
 #new-entry {
     background-color: rgb(31, 31, 31);
 }
+
+/* PS PLUS */
+.ps-plus-bg {
+    background-color: rgb(190, 188, 187);
+}
+
+.cs-font-sz {
+    font-size: calc(.5rem + 1.5vw);
+}
+
+.cs-button-plus {
+    background-color: rgb(217, 218, 220);
+    border-color: rgb(217, 218, 220);
+    color: rgb(44, 100, 230);
+}
