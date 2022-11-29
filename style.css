@@ -67,8 +67,6 @@ header {
     height: calc(2.5rem + 1.5vw);
 }
 
-/* JUMBO GAMES */
-
 /* INFO CONSOLE */
 @media screen and (min-width: 768px) {
     .cs-space {
